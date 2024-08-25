@@ -32,3 +32,19 @@ h2 {
 p {
     margin: 10px 0;
 }
+
+/* styles.css */
+
+/* Container to center the image */
+.image-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+/* Responsive image styling */
+/* styles.css */
+.responsive-img {
+    width: 150px;
+    height: auto;
+}
+
